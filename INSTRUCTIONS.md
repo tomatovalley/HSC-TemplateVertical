@@ -26,7 +26,7 @@ No se considerarán repositorios ajenos a éste.
 
 ### Sugerencias de Estructura para el Proyecto 🧩
 
-Cuando se trabajen con monorepos, o un sólo repositorio, para proyectos que involucren más de una pieza, es importante tener bien speradas cada una de esas piezas para así evitar conflictos entre dependencias. Un ejemplo de cómo puedes lograr esto, es [este proyecto](https://github.com/amy-lei/Fellowboard-Frontend) que [ganó otro hackathon](https://stories.mlh.io/a-look-into-the-mlh-fellowship-halfway-hackathon-f40aaca0e508) hace poco 🌝.
+Cuando se trabajen con monorepos, o un sólo repositorio, para proyectos que involucren más de una pieza, es importante tener bien seperadas cada una de esas piezas para así evitar conflictos entre dependencias. Un ejemplo de cómo puedes lograr esto, es [este proyecto](https://github.com/amy-lei/Fellowboard-Frontend) que [ganó otro hackathon](https://stories.mlh.io/a-look-into-the-mlh-fellowship-halfway-hackathon-f40aaca0e508) hace poco 🌝.
 
 Fíjate en que es un proyecto el cual tiene un cliente con React, y un backend con Node, pero a pesar de eso cada pieza tiene su carpeta para evitar conflictos entre ellos. 👌🏼
 
